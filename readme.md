@@ -2,7 +2,7 @@
 
 React component for displaying organizational charts.
 
-This component is based on [coreseekdev/react-org-chart](https://github.com/coreseekdev/react-org-chart). On top of it, we added a few customization to fulfill our requirements.
+This component is based on [unicef/react-org-chart](https://github.com/unicef/react-org-chart). On top of it, we added a few customization to fulfill our requirements.
 
 ### [View demo](https://unicef.github.io/react-org-chart/)
 
